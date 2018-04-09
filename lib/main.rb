@@ -1,8 +1,5 @@
-# To change this license header, choose License Headers in Project Properties.
-# To change this template file, choose Tools | Templates
-# and open the template in the editor.
 
-puts "Hello Git"
+puts "Hello GitHub"
 require '/home/sunil/Documents/book-of-ruby/RubyApplication12/lib/animal.rb'
 require '/home/sunil/Documents/book-of-ruby/RubyApplication12/lib/teacher.rb'
 require '/home/sunil/Documents/book-of-ruby/RubyApplication12/lib/Module.rb'
