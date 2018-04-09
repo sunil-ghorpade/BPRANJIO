@@ -1,4 +1,4 @@
-# GITNAME BPRANJ.IO
+# GITNAME BPRANJIO
 puts "Hello GitHub"
 require '/home/sunil/Documents/book-of-ruby/RubyApplication12/lib/animal.rb'
 require '/home/sunil/Documents/book-of-ruby/RubyApplication12/lib/teacher.rb'
